@@ -24,7 +24,7 @@ O sistema foi desenvolvido com **SWI-Prolog**
 ```prolog
 ?- iniciar.
 ```  
-### 4- Para testar com respostar já prontas digite:  
+### 4- Para testar com respostas já prontas digite:  
 ```prolog
 - ?- consult('questionario.pl'), consult('perfil_teste_1.pl'), resultado.  
 - ?- consult('questionario.pl'), consult('perfil_teste_2.pl'), resultado.  
