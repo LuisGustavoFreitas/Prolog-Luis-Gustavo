@@ -14,7 +14,7 @@
 
 ## Como executar
 
-### 1- API utilizada:
+### 1- IDE utilizada:
 O sistema foi desenvolvido com **SWI-Prolog**
 ### 2- Para carregar o arquivo digite:
 ```prolog
